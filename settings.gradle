@@ -1,0 +1,6 @@
+include ':ui'
+include ':device'
+include ':data'
+include ':domain'
+include ':app'
+rootProject.name = "Netdy"

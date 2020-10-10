@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/graph_nav_main">
+
+    <fragment
+        android:id="@+id/frmIntroduction"
+        android:name="com.netdy.netdy.ui.IntroductionFragment"
+        android:label="@string/label_fragment_news_feed"/>
+
+    <fragment
+        android:id="@+id/frmGettingStarted"
+        android:name="com.netdy.netdy.ui.GettingStartedFragment"
+        android:label="@string/label_fragment_news_feed"/>
+
+    <fragment
+        android:id="@+id/frmSignIn"
+        android:name="com.netdy.netdy.ui.SignInFragment"
+        android:label="@string/label_fragment_news_feed"/>
+
+    <fragment
+        android:id="@+id/frmSignUp"
+        android:name="com.netdy.netdy.ui.SignUpFragment"
+        android:label="@string/label_fragment_news_feed"/>
+
+    <fragment
+        android:id="@+id/frmNewsFeed"
+        android:name="com.netdy.netdy.ui.NewsFeedFragment"
+        android:label="@string/label_fragment_news_feed"/>
+
+    <fragment
+        android:id="@+id/frmConnection"
+        android:name="com.netdy.netdy.ui.message.MessageFragment"
+        android:label="@string/label_fragment_connection"/>
+
+    <fragment
+        android:id="@+id/frmPost"
+        android:name="com.netdy.netdy.ui.PostFragment"
+        android:label="@string/label_fragment_post"/>
+
+    <fragment
+        android:id="@+id/frmNotification"
+        android:name="com.netdy.netdy.ui.NotificationFragment"
+        android:label="@string/label_fragment_notification"/>
+
+    <fragment
+        android:id="@+id/frmProfile"
+        android:name="com.netdy.netdy.ui.ProfileFragment"
+        android:label="@string/label_fragment_profile"/>
+
+</navigation>

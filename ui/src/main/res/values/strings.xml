@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_news_feed">News</string>
+    <string name="menu_connection">Connection</string>
+    <string name="menu_post">Post</string>
+    <string name="menu_notification">Notification</string>
+    <string name="menu_profile">Profile</string>
+
+    <string name="label_fragment_news_feed">NewsFeed</string>
+    <string name="label_fragment_connection">Connection</string>
+    <string name="label_fragment_post">Post</string>
+    <string name="label_fragment_notification">Notification</string>
+    <string name="label_fragment_profile">Profile</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+</resources>
